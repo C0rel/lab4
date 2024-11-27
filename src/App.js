@@ -6,8 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Code updated 2
+        <p
         </p>
         <a
           className="App-link"
@@ -15,7 +14,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Лаораторная 5
+          Лабораторная 5
         </a>
       </header>
     </div>
