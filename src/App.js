@@ -6,7 +6,8 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p
+        <p>
+        Бобырь Павел Евгеньевич
         </p>
         <a
           className="App-link"
@@ -14,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Лабораторная 5
+          Лабораторная 4
         </a>
       </header>
     </div>
