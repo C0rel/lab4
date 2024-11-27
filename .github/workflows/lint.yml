@@ -1,7 +1,7 @@
 name: Lint Code
 on:
   pull_request:
-    branches: [ master, feat-1 ]
+    branches: [ master ]
 
 jobs:
   lint:
